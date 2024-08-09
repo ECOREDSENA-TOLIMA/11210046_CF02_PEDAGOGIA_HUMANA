@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") A_continuación_se_muestra_un_mapa_conceptual
+    p.mb-5(data-aos="fade-right") A continuación, se describe una visión general de los aspectos esenciales del plan de formación. Cubre los recursos educativos necesarios, desde humanos y financieros hasta materiales didácticos. Examina los ambientes de aprendizaje y los programas de formación, y clasifica los medios utilizados, incluyendo recursos didácticos, tecnologías de la información y recursos multimedia. También aborda estrategias de formación, diferenciando enfoques centrados en el docente, el estudiante, el proceso y el conocimiento, y detalla las metodologías activas y pasivas. Se exploran técnicas e instrumentos de evaluación como la observación, la resolución de problemas y los cuestionarios, además de la evaluación de aprendizajes, con tipos, características y procesos evaluativos. Finalmente, se incluyen planes de mejoramiento y técnicas de registro y sistematización, fundamentales para la mejora continua en educación.
 
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")

@@ -278,28 +278,139 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '3. Programas de formación',
+      referencia: 'Ministerio de Educación Nacional. (s.f.). Normograma.',
+      tipo: 'Página web',
+      link: 'https://www.mineducacion.gov.co/portal/Normatividad/',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '4. Clasificación de medios utilizados',
+      referencia:
+        '¿Cómo elaboramos una guía de aprendizaje? Ecosistema de Recursos Educativos Digitales SENA [Video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=gxiuDA8e02s&t=3s',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'E-learning (aprendizaje electrónico',
+      significado:
+        'se refiere a la educación y formación proporcionada a través de medios electrónicos, principalmente a través de Internet. Este tipo de aprendizaje permite a los estudiantes acceder a material educativo y realizar actividades desde cualquier lugar y en cualquier momento, ofreciendo flexibilidad y eliminando barreras geográficas. Las plataformas populares de e-learning, como Moodle, Google Classroom y Blackboard, permiten a los educadores y estudiantes interactuar y compartir información de manera eficiente y accesible.',
+    },
+    {
+      termino: 'Estrategia',
+      significado:
+        'plan o enfoque diseñado para alcanzar objetivos específicos en el proceso de enseñanza-aprendizaje, guiando la implementación de métodos y recursos educativos.',
+    },
+    {
+      termino: 'Evaluación',
+      significado:
+        'proceso sistemático de recolección, análisis e interpretación de datos sobre el rendimiento y progreso de los estudiantes para tomar decisiones informadas sobre su aprendizaje y desarrollo.',
+    },
+    {
+      termino: 'Instrumentos de evaluación',
+      significado:
+        'herramientas y técnicas utilizadas para medir el rendimiento de los estudiantes, tales como exámenes, cuestionarios, rúbricas y observaciones.',
+    },
+    {
+      termino: 'Material didáctico',
+      significado:
+        'recursos y materiales utilizados para apoyar y facilitar el proceso de enseñanza, como libros, guías, y recursos multimedia.',
+    },
+    {
+      termino: 'Mejoramiento',
+      significado:
+        'proceso de realizar ajustes y mejoras en el plan de formación basado en los resultados de la evaluación para optimizar la calidad educativa y el desempeño de los estudiantes.',
+    },
+    {
+      termino: 'Metodología',
+      significado:
+        'conjunto de métodos y técnicas utilizados en el proceso de enseñanza para facilitar el aprendizaje, basándose en enfoques teóricos y prácticos.',
+    },
+    {
+      termino: 'Proceso',
+      significado:
+        'serie de pasos o fases a seguir en la ejecución de un plan de formación, desde la planificación hasta la evaluación y ajuste de estrategias.',
+    },
+    {
+      termino: 'Recursos humanos',
+      significado:
+        'personas involucradas en el proceso educativo, incluyendo docentes, administradores y otros profesionales que contribuyen a la implementación y ejecución del plan de formación.',
+    },
+    {
+      termino: 'Registro',
+      significado:
+        'documentación sistemática y precisa de los avances y desempeños de los estudiantes durante el proceso educativo, utilizada para hacer seguimiento y tomar decisiones.',
+    },
+    {
+      termino: 'Sistematización',
+      significado:
+        'organización y estructuración de la información y datos educativos de manera ordenada para facilitar su análisis, acceso y uso efectivo en la toma de decisiones.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Editorial GEU. (2022). Los 8 tipos de inteligencia de Gardner y cómo potenciarlas. Howard Gardner.',
+      link:
+        'https://www.editorialgeu.com/blog/los-8-tipos-de-inteligencia-de-gardner-y-como-potenciarlos/',
+    },
+    {
+      referencia:
+        'Krüger, K. (2006). El concepto de sociedad del conocimiento. Revista bibliográfica de geografía y ciencias sociales, 683.',
+    },
+    {
+      referencia: 'Mindomo. (s.f.). El método demostrativo: los 4 pasos.',
+      link:
+        'https://www.mindomo.com/es/mindmap/el-metodo-demostrativo-los-4-pasos-269adfc4f9bd4d1a8e47ae619a1d3ba7',
+    },
+    {
+      referencia:
+        'Ministerio de Educación Nacional. (1994). Ley General de Educación, Ley 115 de febrero 8 de 1994.',
+      link:
+        'https://www.mineducacion.gov.co/1621/articles-85906_archivo_pdf.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Educación Nacional. (s.f.). Normograma: Decreto 1075 de 2015.',
+      link: 'https://www.mineducacion.gov.co/portal/Normatividad/',
+    },
+    {
+      referencia:
+        'Ministerio de Educación Nacional. (2017). Programas de formación.',
+      link: 'http://www.mineducacion.gov.co/1759/w3-article-234968.html',
+    },
+    {
+      referencia:
+        'Ministerio de Educación Nacional. (s.f.). Proyecto educativo institucional (PEI).',
+      link: 'https://www.mineducacion.gov.co/1621/article-79361.html',
+    },
+    {
+      referencia:
+        'Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC). (s.f.). E-Learning (aprendizaje electrónico).',
+      link:
+        'https://www.mintic.gov.co/portal/inicio/Glosario/E/5601:E-Learning-aprendizaje-electronico',
+    },
+    {
+      referencia:
+        'Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC). (s.f.). Tecnologías de la información y las comunicaciones (TIC).',
+      link:
+        'https://mintic.gov.co/portal/inicio/Glosario/T/5755:Tecnologias-de-la-Informacion-y-las-Comunicaciones-TIC#:~:text=Las%20Tecnolog%C3%ADas%20de%20la%20Informaci%C3%B3n,%2C%20video%20e%20im%C3%A1genes%20(Art.',
+    },
+    {
+      referencia:
+        'Organización Internacional de Normalización (ISO). (s.f.). Inicio.',
+      link: 'https://www.iso.org/es/home',
+    },
+    {
+      referencia:
+        'Romero, R. (s.f.). La evaluación en el proceso de enseñanza-aprendizaje.',
+      link: 'http://tecnologiaedu.us.es/rromero/pdf/present8.pdf',
+    },
+    {
+      referencia: 'Universidad de Cundinamarca (UDEC). (s.f.). Evaluación.',
+      link:
+        'http://www.udec.edu.mx/portal/docs/DIDACTICA/INSTRUMENTOS%20DE%20EVALUACION.pdf',
     },
   ],
   creditos: [
@@ -337,7 +448,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
+          nombre: 'Sebastian Trujillo Afanador',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
