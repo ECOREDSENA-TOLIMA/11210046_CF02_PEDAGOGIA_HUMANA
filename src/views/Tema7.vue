@@ -32,16 +32,16 @@
           img(src='@/assets/curso/temas/tema7/3.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .p-4
-              h4.text-center Recursos tecnológicos
-              p Computadoras, proyectores, teléfonos inteligentes, reproductores de audio y video, entre otros equipos especializados en áreas específicas de desempeño o profesión.
+              h4.text-center Materiales didácticos
+              p carteleras, fotografías, mapas, instrumentos de laboratorio, y otros recursos que apoyan la comprensión de los contenidos.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema7/4.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .p-4
-              h4.text-center Recursos tecnológicos
-              p Computadoras, proyectores, teléfonos inteligentes, reproductores de audio y video, entre otros equipos especializados en áreas específicas de desempeño o profesión.
+              h4.text-center Ambientes especiales de aprendizaje
+              p espacios diseñados para áreas específicas, como cocinas didácticas en gastronomía, entornos y bahías en metalmecánica, o aulas especializadas en el área de la salud.
 
     separador
     #t_7_2.titulo-segundo.color-acento-contenido
