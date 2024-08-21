@@ -99,7 +99,7 @@
     p.mb-4(data-aos="fade-left") Estas metodologías están centradas en el docente y se caracterizan por un enfoque más tradicional y autoritario en el proceso de enseñanza. Los estudiantes tienen un papel más receptivo, limitándose a recibir la información proporcionada por el docente sin una participación activa en el proceso de aprendizaje. Entre las metodologías pasivas se encuentran:
 
     .row.justify-content-center.mb-5
-      .col-lg-6.col-md-10.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-lg-6.col-md-12.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema6/13.png' alt="Imagen decorativa")
@@ -111,7 +111,7 @@
               h4.mb-0 Enseñanza magistral
             p.text-white.text-center.mb-0 El docente presenta la información de manera estructurada y detallada, mientras los estudiantes toman notas y absorben el contenido sin un involucramiento activo.
 
-      .col-lg-6.col-md-10.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-lg-6.col-md-12.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema6/14.png' alt="Imagen decorativa")

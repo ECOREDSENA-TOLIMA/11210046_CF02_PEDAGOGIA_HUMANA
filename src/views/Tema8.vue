@@ -32,7 +32,7 @@
     p.mb-4(data-aos="fade-left") En este enfoque, el evaluador interactúa directamente con el estudiante o candidato durante el proceso de evaluación. Esta observación puede ser:
 
     .row.justify-content-center.mb-5
-      .col-lg-6.col-md-10.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-lg-6.col-md-12.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema8/2.png' alt="Imagen decorativa")
@@ -44,7 +44,7 @@
               h4.mb-0 Estructurada
             p.text-white.text-center.mb-0 Donde se prepara al estudiante con antelación y se utilizan criterios y herramientas específicos, como listas de cotejo o rúbricas, para registrar y evaluar el desempeño.
 
-      .col-lg-6.col-md-10.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-lg-6.col-md-12.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema8/3.png' alt="Imagen decorativa")
