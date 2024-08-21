@@ -99,11 +99,11 @@
     p.mb-4(data-aos="fade-left") Estas metodologías están centradas en el docente y se caracterizan por un enfoque más tradicional y autoritario en el proceso de enseñanza. Los estudiantes tienen un papel más receptivo, limitándose a recibir la información proporcionada por el docente sin una participación activa en el proceso de aprendizaje. Entre las metodologías pasivas se encuentran:
 
     .row.justify-content-center.mb-5
-      .col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-lg-6.col-md-10.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema6/13.png' alt="Imagen decorativa")
-          .tarjetas-up_card.BG05.p-xl-4.p-lg-3.p-4.mb-4
+          .tarjetas-up_card.BG05.p-xl-4.p-lg-3.p-sm-4.px-4
             .title.d-flex.align-items-center.justify-content-center.text-white.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -111,17 +111,18 @@
               h4.mb-0 Enseñanza magistral
             p.text-white.text-center.mb-0 El docente presenta la información de manera estructurada y detallada, mientras los estudiantes toman notas y absorben el contenido sin un involucramiento activo.
 
-      .col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-lg-6.col-md-10.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema6/14.png' alt="Imagen decorativa")
-          .tarjetas-up_card.BG05.p-xl-4.p-lg-3.p-4.mb-4
+          .tarjetas-up_card.BG05.p-xl-4.p-lg-3.p-sm-4.px-4
             .title.d-flex.align-items-center.justify-content-center.text-white.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h4.mb-0 Clases expositivas
             p.text-white.text-center.mb-0 Se enfoca en la transmisión unidireccional del conocimiento, con poca interacción o participación por parte de los estudiantes.
+
     
     //- .row.mb-5.justify-content-center
     //-   .col-sm-6.col-xl-5.mb-4.mb-xl-0.desktop

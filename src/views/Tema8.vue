@@ -36,7 +36,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema8/2.png' alt="Imagen decorativa")
-          .tarjetas-up_card.BG05.p-xl-5.p-lg-3.p-4.mb-4
+          .tarjetas-up_card.BG05.p-xl-6.p-lg-3.p-sm-4.px-3
             .title.d-flex.align-items-center.justify-content-center.text-white.mb-3
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -48,7 +48,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema8/3.png' alt="Imagen decorativa")
-          .tarjetas-up_card.BG05.p-xl-5.p-lg-3.p-4.mb-4
+          .tarjetas-up_card.BG05.p-xl-6.p-lg-3.p-sm-4.px-3
             .title.d-flex.align-items-center.justify-content-center.text-white.mb-3
               span
                 i.fas.fa-caret-up.fa-2x.me-3

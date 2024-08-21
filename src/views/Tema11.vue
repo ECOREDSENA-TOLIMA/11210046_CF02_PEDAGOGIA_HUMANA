@@ -17,7 +17,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="flip-up")
           .row(titulo="¿Por qué es tan importante el registro?")
             .col-md-12.mb-4.mb-md-0
-              p.mb-4 El registro es fundamental para preservar la información sobre los avances de los estudiantes. En caso de que una institución educativa cierre, estos registros no se perderán, ya que deben ser entregados a las Secretarías de Educación para su almacenamiento conforme a normas de archivo. Esto asegura que la información se mantenga accesible y verificable en cualquier momento, incluso mucho después de su generación
+              p.mb-4 El registro es fundamental para preservar la información sobre los avances de los estudiantes. En caso de que una institución educativa cierre, estos registros no se perderán, ya que deben ser entregados a las Secretarías de Educación para su almacenamiento conforme a normas de archivo. Esto asegura que la información se mantenga accesible y verificable en cualquier momento, incluso mucho después de su generación.
           .row(titulo="¿Cómo asegurar la evaluación de la calidad del proceso educativo?")
             .col-md-12.mb-4.mb-md-0
               p.mb-4 La evaluación permite a los docentes valorar a los estudiantes bajo diversos criterios como el momento, la intensidad, la complejidad del contenido, el método y los instrumentos utilizados .Estos criterios garantizan una evaluación precisa y completa, proporcionando una imagen clara del progreso y las áreas que requieren atención adicional.
