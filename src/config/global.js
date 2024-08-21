@@ -293,7 +293,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'E-learning (aprendizaje electrónico',
+      termino: '<i>E-learning</i> (aprendizaje electrónico',
       significado:
         'se refiere a la educación y formación proporcionada a través de medios electrónicos, principalmente a través de Internet. Este tipo de aprendizaje permite a los estudiantes acceder a material educativo y realizar actividades desde cualquier lugar y en cualquier momento, ofreciendo flexibilidad y eliminando barreras geográficas. Las plataformas populares de e-learning, como Moodle, Google Classroom y Blackboard, permiten a los educadores y estudiantes interactuar y compartir información de manera eficiente y accesible.',
     },
@@ -405,12 +405,11 @@ export default {
     {
       referencia:
         'Romero, R. (s.f.). La evaluación en el proceso de enseñanza-aprendizaje.',
-      link: 'http://tecnologiaedu.us.es/rromero/pdf/present8.pdf',
+      link: '',
     },
     {
       referencia: 'Universidad de Cundinamarca (UDEC). (s.f.). Evaluación.',
-      link:
-        'http://www.udec.edu.mx/portal/docs/DIDACTICA/INSTRUMENTOS%20DE%20EVALUACION.pdf',
+      link: '',
     },
   ],
   creditos: [
@@ -418,7 +417,7 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
@@ -433,28 +432,68 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Nombre_rol',
-          centro: 'Nombre_centro_formación',
+          nombre: 'Olga Marcela Valencia Gómez',
+          cargo: 'Experta temática',
+          centro: 'Centro de Comercio y Servicios – Regional Caldas',
+        },
+        {
+          nombre: 'Lina María Franco Arbeláez ',
+          cargo: 'Experta temática ',
+          centro: 'Centro Agroindustrial – Regional Quindío',
+        },
+        {
+          nombre: 'Luz Clarena Arias González',
+          cargo: 'Guionista de línea de producción',
+          centro: 'Centro Agroindustrial. Regional Quindío',
+        },
+        {
+          nombre: 'Andrés Felipe Vargas Correa ',
+          cargo: 'Asesor pedagógico ',
+          centro: 'Centro Agroindustrial – Regional Quindío',
+        },
+        {
+          nombre: 'Martha Lucía Giraldo Ramírez',
+          cargo: 'Líder de planificación y adecuación didáctica',
+          centro: 'Centro Agroindustrial – Regional Quindío',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Evaluadora instruccional ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
     {
-      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES ',
       autores: [
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Oscar Ivan Uribe Ortiz',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Jose Yobani Penagos Mora',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Sebastian Trujillo Afanador',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Animación y producción audiovisual',
+          nombre: 'Diego Fernando Velasco Güiza',
+          cargo: 'Desarrollador <i>full stack</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -463,18 +502,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
+          nombre: 'Jorge Bustos Gómez',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],

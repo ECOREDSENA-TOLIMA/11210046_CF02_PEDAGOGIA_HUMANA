@@ -61,7 +61,7 @@
           .row(titulo="Pertinencia con los resultados de aprendizaje")
             .col-md-12.mb-4.mb-md-0
               p.mb-4 El material didáctico debe estar alineado con los resultados de aprendizaje esperados. Su contenido y enfoque deben ser coherentes con los objetivos educativos y las competencias que se desean desarrollar en los estudiantes.
-      .col-lg-4.col-10.mb-3
+      .col-lg-4.col-10.mb-3.d-lg-flex.d-none
         figure.mb-4(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/4.png', alt='Imagen decorativa')
     

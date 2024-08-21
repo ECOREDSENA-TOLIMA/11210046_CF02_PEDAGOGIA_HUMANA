@@ -17,12 +17,12 @@
             figure
               img(src='@/assets/curso/temas/tema3/1.png', alt='Imagen decorativa')
     
-    p.mb-4(data-aos="fade-left") De acuerdo con el Decreto 1075 de 2015, artículo 2.6.4.1., los tipos de programas de formación en la Educación para el Trabajo y el Desarrollo Humano son: 
+    p.mb-4(data-aos="fade-left") De acuerdo con el Decreto 1075 de 2015, artículo 2.6.4.1, los tipos de programas de formación en la Educación para el Trabajo y el Desarrollo Humano son: 
 
     .row.justify-content-center.mb-5
       .col-12.mb-4
         .tarjeta-avatar-b(data-aos="flip-up")
-          .tarjeta-avatar-b__img
+          .tarjeta-avatar-b__img(style="max-width: 600px")
             img(src='@/assets/curso/temas/tema3/2.svg' alt='AvatarTop')
           .tarjeta.tarjeta1
             .p-4
@@ -31,7 +31,7 @@
               p Duración y prácticas: deben tener una duración mínima de 600 horas, de las cuales al menos el 50 % debe dedicarse a formación práctica.
       .col-12.mb-4
         .tarjeta-avatar-b(data-aos="flip-up")
-          .tarjeta-avatar-b__img
+          .tarjeta-avatar-b__img(style="max-width: 600px")
             img(src='@/assets/curso/temas/tema3/3.svg' alt='AvatarTop')
           .tarjeta.tarjeta1
             .p-4

@@ -20,25 +20,25 @@
 
     .row.justify-content-center(data-aos="flip-up")
       .tarjeta--container.row.mb-5
-        .col-md.tarjeta.color-primario.p-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-4
-            .col-4
+            .col-xl-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema2/2.svg', alt='Imagen decorativa')
             
           h4.text-center Enfoque innovador
           p Los enfoques innovadores, como el aprendizaje basado en proyectos o el aprendizaje colaborativo, también juegan un papel importante en la configuración de ambientes de aprendizaje efectivos, permitiendo una mayor interacción y participación de los estudiantes.
-        .col-md.tarjeta.color-secundario.p-5
+        .col-xl.col-md-6.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-4
-            .col-4
+            .col-xl-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema2/3.svg', alt='Imagen decorativa')
             
           h4.text-center Inclusividad y accesibilidad
           p Es fundamental que los ambientes de aprendizaje sean inclusivos y accesibles para todos los estudiantes, incluyendo aquellos con necesidades educativas especiales. La adaptabilidad del espacio y los recursos disponibles deben tener en cuenta estas necesidades para asegurar una educación equitativa.
-        .col-md.tarjeta.color-primario1.p-5
+        .col-xl.col-md-6.tarjeta.color-primario1.p-5
           .row.justify-content-center.mb-4
-            .col-4
+            .col-xl-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema2/4.svg', alt='Imagen decorativa')
             

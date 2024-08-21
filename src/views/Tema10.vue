@@ -12,25 +12,25 @@
 
     .row.justify-content-center(data-aos="flip-up")
       .tarjeta--container.row.mb-5
-        .col-md.tarjeta.color-primario.p-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-4
-            .col-4
+            .col-xl-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema10/1.svg', alt='Imagen decorativa')
             
           h4.text-center Planificación estratégica
           p Involucra la formulación de acciones y objetivos a largo plazo para alcanzar metas específicas. Esta planificación estratégica asegura que las instituciones puedan guiar sus esfuerzos de manera coherente y efectiva.
-        .col-md.tarjeta.color-secundario.p-5
+        .col-xl.col-md-6.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-4
-            .col-4
+            .col-xl-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema10/2.svg', alt='Imagen decorativa')
             
           h4.text-center Programa de mejoramiento de la calidad académica
           p Este programa incluye procesos de acreditación y certificación que buscan asegurar y mejorar la calidad educativa. A través de este programa, las instituciones trabajan para cumplir con estándares reconocidos y mejorar su oferta académica.
-        .col-md.tarjeta.color-primario1.p-5
+        .col-xl.col-md-6.tarjeta.color-primario1.p-5
           .row.justify-content-center.mb-4
-            .col-4
+            .col-xl-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema10/3.svg', alt='Imagen decorativa')
             

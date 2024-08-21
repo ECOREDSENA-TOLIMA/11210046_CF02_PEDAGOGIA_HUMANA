@@ -10,10 +10,10 @@
     p.mb-4(data-aos="fade-left") En el ámbito educativo, el registro y la sistematización de los avances de los estudiantes son cruciales para garantizar la continuidad y eficacia del proceso de aprendizaje. Estos procedimientos no solo cumplen una función administrativa, sino que son esenciales para documentar y seguir el progreso de los estudiantes. Los docentes deben capturar meticulosamente cada avance utilizando formatos adecuados, ya sean físicos o digitales, para asegurar una representación fiel del viaje educativo de cada estudiante.
 
     .row.justify-content-center.mb-4
-      .col-lg-4.col-10.mb-3
+      .col-lg-4.col-12.mb-3.d-lg-flex.d-none
         figure
           img(src='@/assets/curso/temas/tema11/1.png', alt='Imagen decorativa')
-      .col-lg-8.col-10.mb-3
+      .col-lg-8.col-12.mb-3
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="flip-up")
           .row(titulo="¿Por qué es tan importante el registro?")
             .col-md-12.mb-4.mb-md-0
@@ -47,7 +47,7 @@ export default {
       {
         titulo: 'Registros narrativos',
         texto:
-          'Descripciones detalladas del desempeño del estudiante que proporcionan un contexto rico y detallado, pero pueden ser subjetivas y requieren mucho tiempo para completarse',
+          'Descripciones detalladas del desempeño del estudiante que proporcionan un contexto rico y detallado, pero pueden ser subjetivas y requieren mucho tiempo para completarse.',
         imagen: require('@/assets/curso/temas/tema11/2.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

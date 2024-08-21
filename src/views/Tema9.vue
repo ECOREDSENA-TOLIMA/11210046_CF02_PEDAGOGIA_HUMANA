@@ -101,63 +101,93 @@
 
     .tarjeta.tarjeta--gris1.p-4.mb-5
       LineaTiempoC.color-acento-botones.especial(text-small)
-        .row(titulo="a.")
-          .col-md-6.mb-4.mb-md-0.p-4
+        .row.justify-content-center.align-items-center(titulo="a.")
+          .col-lg-6.order-lg-1.order-2.p-4
             h4.mb-4 Definición de objetivos y criterios.
-            li.mb-4 <b>Establecimiento de objetivos</b>: determinar claramente qué se espera que los estudiantes aprendan y logren al final del curso o módulo. 
-            li <b>Criterios de evaluación</b>: definir los parámetros que se usarán para medir el logro de los objetivos, incluyendo los niveles de competencia y los resultados esperados.
+            ul.lista-ul
+              li.mb-4(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Establecimiento de objetivos</b>: determinar claramente qué se espera que los estudiantes aprendan y logren al final del curso o módulo. 
+              li(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Criterios de evaluación</b>: definir los parámetros que se usarán para medir el logro de los objetivos, incluyendo los niveles de competencia y los resultados esperados.
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema9/10.png', alt='Imagen decorativa')
 
-        .row(titulo="b.")
-          .col-md-6.mb-4.mb-md-0.p-4
+        .row.justify-content-center.align-items-center(titulo="b.")
+          .col-lg-6.order-lg-1.order-2.p-4
             h4.mb-4 Selección de métodos y técnicas de evaluación.
-            li.mb-4 <b>Elección de técnicas</b>: decidir qué técnicas de evaluación (exámenes, proyectos, observaciones, etc.) se utilizarán para recoger datos sobre el aprendizaje.
-            li <b>Diseño de instrumentos</b>: desarrollar o seleccionar herramientas específicas (cuestionarios, rúbricas, listas de cotejo) que se alineen con los objetivos y criterios establecidos.
+            ul.lista-ul
+              li.mb-4(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Elección de técnicas</b>: decidir qué técnicas de evaluación (exámenes, proyectos, observaciones, etc.) se utilizarán para recoger datos sobre el aprendizaje.
+              li(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Diseño de instrumentos</b>: desarrollar o seleccionar herramientas específicas (cuestionarios, rúbricas, listas de cotejo) que se alineen con los objetivos y criterios establecidos.
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema9/11.png', alt='Imagen decorativa')
 
-        .row(titulo="c.")
-          .col-md-6.mb-4.mb-md-0.p-4
+        .row.justify-content-center.align-items-center(titulo="c.")
+          .col-lg-6.order-lg-1.order-2.p-4
             h4.mb-4 Implementación de la evaluación.
-            li.mb-4 <b>Aplicación de técnicas</b>: ejecutar las evaluaciones de acuerdo con los métodos y técnicas seleccionadas, asegurando que se realicen en condiciones justas y consistentes.
-            li <b>Recolección de datos</b>: recopilar información sobre el desempeño de los estudiantes durante y después de las actividades evaluativas.
+            ul.lista-ul
+              li.mb-4(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Aplicación de técnicas</b>: ejecutar las evaluaciones de acuerdo con los métodos y técnicas seleccionadas, asegurando que se realicen en condiciones justas y consistentes.
+              li.mb-4(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Recolección de datos</b>: recopilar información sobre el desempeño de los estudiantes durante y después de las actividades evaluativas.
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema9/12.png', alt='Imagen decorativa')
 
-        .row(titulo="d.")
-          .col-md-6.mb-4.mb-md-0.p-4
+        .row.justify-content-center.align-items-center(titulo="d.")
+          .col-lg-6.order-lg-1.order-2.p-4
             h4.mb-4 Análisis de resultados.
-            li.mb-4 <b>Revisión y evaluación</b>: analizar los datos recogidos para determinar el grado de cumplimiento de los objetivos de aprendizaje.
-            li <b>Interpretación de resultados</b>: evaluar la información en el contexto de los criterios establecidos para proporcionar una visión clara del rendimiento y progreso de los estudiantes.
+            ul.lista-ul
+              li.mb-4(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Revisión y evaluación</b>: analizar los datos recogidos para determinar el grado de cumplimiento de los objetivos de aprendizaje.
+              li(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Interpretación de resultados</b>: evaluar la información en el contexto de los criterios establecidos para proporcionar una visión clara del rendimiento y progreso de los estudiantes.
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema9/13.png', alt='Imagen decorativa')
 
-        .row(titulo="e.")
-          .col-md-6.mb-4.mb-md-0.p-4
+        .row.justify-content-center.align-items-center(titulo="e.")
+          .col-lg-6.order-lg-1.order-2.p-4
             h4.mb-4 Retroalimentación y ajustes.
-            li.mb-4 <b>Retroalimentación</b>: proporcionar a los estudiantes comentarios constructivos sobre su desempeño, destacando áreas de mejora y logros.
-            li <b>Ajustes en la enseñanza</b>: revisar y modificar las estrategias de enseñanza y los métodos de evaluación según sea necesario para mejorar el proceso educativo y abordar las necesidades identificadas.
+            ul.lista-ul
+              li.mb-4(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Retroalimentación</b>: proporcionar a los estudiantes comentarios constructivos sobre su desempeño, destacando áreas de mejora y logros.
+              li(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Ajustes en la enseñanza</b>: revisar y modificar las estrategias de enseñanza y los métodos de evaluación según sea necesario para mejorar el proceso educativo y abordar las necesidades identificadas.
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema9/14.png', alt='Imagen decorativa')
 
-        .row(titulo="f.")
-          .col-md-6.mb-4.mb-md-0.p-4
+        .row.justify-content-center.align-items-center(titulo="f.")
+          .col-lg-6.order-lg-1.order-2.p-4
             h4.mb-4 Evaluación continua y final.
-            li.mb-4 <b>Evaluación continua</b>: realizar evaluaciones periódicas durante el proceso educativo para monitorear el progreso y realizar ajustes oportunos.
-            li <b>Evaluación final</b>: al concluir el curso o módulo, llevar a cabo una evaluación sumativa para determinar si los estudiantes han alcanzado los objetivos finales y certificarlos si es necesario.
+            ul.lista-ul
+              li.mb-4(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Evaluación continua</b>: realizar evaluaciones periódicas durante el proceso educativo para monitorear el progreso y realizar ajustes oportunos.
+              li.mb-4(style="margin-bottom: 2px") 
+                i.fas.fa-circle(style="font-size: 0.5em")
+                span <b>Evaluación final</b>: al concluir el curso o módulo, llevar a cabo una evaluación sumativa para determinar si los estudiantes han alcanzado los objetivos finales y certificarlos si es necesario.
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema9/15.png', alt='Imagen decorativa')
 

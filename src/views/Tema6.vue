@@ -98,42 +98,67 @@
 
     p.mb-4(data-aos="fade-left") Estas metodologías están centradas en el docente y se caracterizan por un enfoque más tradicional y autoritario en el proceso de enseñanza. Los estudiantes tienen un papel más receptivo, limitándose a recibir la información proporcionada por el docente sin una participación activa en el proceso de aprendizaje. Entre las metodologías pasivas se encuentran:
 
-    .row.mb-5.justify-content-center
-      .col-sm-6.col-xl-5.mb-4.mb-xl-0.desktop
-        .tarjeta.tarjeta-slide.arriba.color2(@mouseover="indicadorTarjetaSlide = false")
-          .indicador--hover(v-if="indicadorTarjetaSlide")
-          .tarjeta-slide__contenedor.p-4
-            .tarjeta-slide__contenido.p-4.p-xl-5
-              h5 Enseñanza magistral
-              p El docente presenta la información de manera estructurada y detallada, mientras los estudiantes toman notas y absorben el contenido sin un involucramiento activo.
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/13.png')})`}")
-      .col-sm-6.col-xl-5.mb-4.mb-xl-0.desktop
-        .tarjeta.tarjeta-slide.arriba.color2(@mouseover="indicadorTarjetaSlide = false")
-          .indicador--hover(v-if="indicadorTarjetaSlide")
-          .tarjeta-slide__contenedor.p-4
-            .tarjeta-slide__contenido.p-4.p-xl-5
-              h5 Clases expositivas
-              p Se enfoca en la transmisión unidireccional del conocimiento, con poca interacción o participación por parte de los estudiantes.
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/14.png')})`}")
+    .row.justify-content-center.mb-5
+      .col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+        .tarjetas-up(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema6/13.png' alt="Imagen decorativa")
+          .tarjetas-up_card.BG05.p-xl-4.p-lg-3.p-4.mb-4
+            .title.d-flex.align-items-center.justify-content-center.text-white.mb-4
+              span
+                i.fas.fa-caret-up.fa-2x.me-3
+                i.fas.fa-caret-down.fa-2x.me-3
+              h4.mb-0 Enseñanza magistral
+            p.text-white.text-center.mb-0 El docente presenta la información de manera estructurada y detallada, mientras los estudiantes toman notas y absorben el contenido sin un involucramiento activo.
 
-    .col.movil
-      .row.mb-5.justify-content-center
-        .col-sm-6.col-xl-3.mb-4-xl-0.col-12.p-4
-          .tarjeta.tarjeta-slide.arriba.color2(@mouseover="indicadorTarjetaSlide = false")
-            .indicador--hover(v-if="indicadorTarjetaSlide")
-            .tarjeta-slide__contenedor
-              .tarjeta-slide__contenido.p-4.p-xl-5
-                h5 Enseñanza magistral
-                p El docente presenta la información de manera estructurada y detallada, mientras los estudiantes toman notas y absorben el contenido sin un involucramiento activo.
-              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/13.png')})`}")
-        .col-sm-6.col-xl-3.mb-4-xl-0.col-12.p-4
-          .tarjeta.tarjeta-slide.arriba.color2(@mouseover="indicadorTarjetaSlide = false")
-            .indicador--hover(v-if="indicadorTarjetaSlide")
-            .tarjeta-slide__contenedor
-              .tarjeta-slide__contenido.p-4.p-xl-5
-                h5 Clases expositivas
-                p Se enfoca en la transmisión unidireccional del conocimiento, con poca interacción o participación por parte de los estudiantes.
-              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/14.png')})`}")
+      .col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+        .tarjetas-up(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema6/14.png' alt="Imagen decorativa")
+          .tarjetas-up_card.BG05.p-xl-4.p-lg-3.p-4.mb-4
+            .title.d-flex.align-items-center.justify-content-center.text-white.mb-4
+              span
+                i.fas.fa-caret-up.fa-2x.me-3
+                i.fas.fa-caret-down.fa-2x.me-3
+              h4.mb-0 Clases expositivas
+            p.text-white.text-center.mb-0 Se enfoca en la transmisión unidireccional del conocimiento, con poca interacción o participación por parte de los estudiantes.
+    
+    //- .row.mb-5.justify-content-center
+    //-   .col-sm-6.col-xl-5.mb-4.mb-xl-0.desktop
+    //-     .tarjeta.tarjeta-slide.arriba.color2(@mouseover="indicadorTarjetaSlide = false")
+    //-       .indicador--hover(v-if="indicadorTarjetaSlide")
+    //-       .tarjeta-slide__contenedor.p-4
+    //-         .tarjeta-slide__contenido.p-4.p-xl-5
+    //-           h5 Enseñanza magistral
+    //-           p El docente presenta la información de manera estructurada y detallada, mientras los estudiantes toman notas y absorben el contenido sin un involucramiento activo.
+    //-         .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/13.png')})`}")
+    //-   .col-sm-6.col-xl-5.mb-4.mb-xl-0.desktop
+    //-     .tarjeta.tarjeta-slide.arriba.color2(@mouseover="indicadorTarjetaSlide = false")
+    //-       .indicador--hover(v-if="indicadorTarjetaSlide")
+    //-       .tarjeta-slide__contenedor.p-4
+    //-         .tarjeta-slide__contenido.p-4.p-xl-5
+    //-           h5 Clases expositivas
+    //-           p Se enfoca en la transmisión unidireccional del conocimiento, con poca interacción o participación por parte de los estudiantes.
+    //-         .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/14.png')})`}")
+
+    //- .col.movil
+    //-   .row.mb-5.justify-content-center
+    //-     .col-sm-6.col-xl-3.mb-4-xl-0.col-12.p-4
+    //-       .tarjeta.tarjeta-slide.arriba.color2(@mouseover="indicadorTarjetaSlide = false")
+    //-         .indicador--hover(v-if="indicadorTarjetaSlide")
+    //-         .tarjeta-slide__contenedor
+    //-           .tarjeta-slide__contenido.p-4.p-xl-5
+    //-             h5 Enseñanza magistral
+    //-             p El docente presenta la información de manera estructurada y detallada, mientras los estudiantes toman notas y absorben el contenido sin un involucramiento activo.
+    //-           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/13.png')})`}")
+    //-     .col-sm-6.col-xl-3.mb-4-xl-0.col-12.p-4
+    //-       .tarjeta.tarjeta-slide.arriba.color2(@mouseover="indicadorTarjetaSlide = false")
+    //-         .indicador--hover(v-if="indicadorTarjetaSlide")
+    //-         .tarjeta-slide__contenedor
+    //-           .tarjeta-slide__contenido.p-4.p-xl-5
+    //-             h5 Clases expositivas
+    //-             p Se enfoca en la transmisión unidireccional del conocimiento, con poca interacción o participación por parte de los estudiantes.
+    //-           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/14.png')})`}")
     
     p.mb-4(data-aos="fade-left") La elección entre metodologías activas y pasivas depende de los objetivos educativos y del contexto en el que se desarrolle el proceso de enseñanza-aprendizaje. Las metodologías activas favorecen un aprendizaje más profundo y significativo, mientras que las metodologías pasivas pueden ser útiles para la transmisión eficiente de grandes cantidades de información. A continuación, se resaltan las diferencias entre ambos enfoques:
 

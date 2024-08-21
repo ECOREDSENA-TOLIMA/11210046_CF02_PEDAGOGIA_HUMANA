@@ -34,15 +34,12 @@
               img(src='@/assets/curso/temas/tema5/5.svg', alt='Imagen decorativa')
 
           .tarjeta.color-secundario.p-3(x="11.8%" y="34.8%" numero="+")
-            .h5.mb-2 Método de problemas
             p Utiliza situaciones problemáticas para que los estudiantes apliquen investigación, análisis y experimentación en su resolución.
 
           .tarjeta.color-secundario.p-3(x="31%" y="22.8%" numero="+")
-            .h5.mb-2 Juego de roles
             p Permite a los estudiantes asumir diferentes  perspectivas y modificar comportamientos para entender mejor los conceptos.
 
           .tarjeta.color-secundario.p-3(x="49.8%" y="11%" numero="+")
-            .h5.mb-2 Método de indagación 
             p A través de preguntas, guía a los estudiantes a llegar a conclusiones sobre lo aprendido.
 
           .tarjeta.color-secundario.p-3(x="68.8%" y="22.8%" numero="+")
@@ -50,7 +47,6 @@
             p Complementa la labor docente mediante orientación y acompañamiento flexible y programado.
 
           .tarjeta.color-secundario.p-3(x="88.5%" y="34.8%" numero="+")
-            .h5.mb-2 Aprendizaje por descubrimiento
             p Los estudiantes descubren por si mismos los conceptos con la guía del docente.
 
       .col-12.movil
@@ -64,48 +60,48 @@
 
     .tarjeta.p-4.tarjeta--gris1.px-4.px-md-5.pt-4.mb-5
       PasosB.color-acento-botones
-        .row(titulo="")
-          .col-md-6.mb-4.mb-md-0.px-5
+        .row.justify-content-center.align-items-center(titulo="")
+          .col-lg-6.order-lg-1.order-2
             h6.mb-4 Simulación
-            p Permite a los estudiantes asumir roles en escenarios que imitan problemas y situaciones del mundo real. Esta estrategia fomenta el aprendizaje experiencial al permitir que los estudiantes interactúen con problemas en un entorno controlado, desarrollando habilidades prácticas y aplicadas que son transferibles a situaciones reales. 
+            p.mb-0 Permite a los estudiantes asumir roles en escenarios que imitan problemas y situaciones del mundo real. Esta estrategia fomenta el aprendizaje experiencial al permitir que los estudiantes interactúen con problemas en un entorno controlado, desarrollando habilidades prácticas y aplicadas que son transferibles a situaciones reales. 
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema5/6.png', alt='Imagen decorativa')
 
-        .row(titulo="")
-          .col-md-6.mb-4.mb-md-0.px-5
+        .row.justify-content-center.align-items-center(titulo="")
+          .col-lg-6.order-lg-1.order-2
             h6.mb-4 Seminario investigativo
-            p Requiere que los estudiantes realicen una investigación previa sobre un tema específico, seguido de un intercambio conceptual y discursivo durante el seminario. Este enfoque promueve una comprensión profunda del tema y facilita la discusión crítica y el análisis compartido entre los participantes.
+            p.mb-0 Requiere que los estudiantes realicen una investigación previa sobre un tema específico, seguido de un intercambio conceptual y discursivo durante el seminario. Este enfoque promueve una comprensión profunda del tema y facilita la discusión crítica y el análisis compartido entre los participantes.
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema5/7.png', alt='Imagen decorativa')
 
-        .row(titulo="")
-          .col-md-6.mb-4.mb-md-0.px-5
+        .row.justify-content-center.align-items-center(titulo="")
+          .col-lg-6.order-lg-1.order-2
             h6.mb-4 Método de los 4 pasos
-            p Un modelo práctico que estructura el proceso de enseñanza en cuatro fases interactivas: primero, el instructor demuestra y explica; luego, el estudiante repite lo aprendido mientras el instructor supervisa; después, el estudiante toma la iniciativa y realiza las tareas mientras el instructor observa; y finalmente, el estudiante ejecuta la tarea de forma independiente mientras el instructor ofrece apoyo y retroalimentación. Este método asegura un aprendizaje gradual y el desarrollo de la autonomía del estudiante. 
+            p.mb-0 Un modelo práctico que estructura el proceso de enseñanza en cuatro fases interactivas: primero, el instructor demuestra y explica; luego, el estudiante repite lo aprendido mientras el instructor supervisa; después, el estudiante toma la iniciativa y realiza las tareas mientras el instructor observa; y finalmente, el estudiante ejecuta la tarea de forma independiente mientras el instructor ofrece apoyo y retroalimentación. Este método asegura un aprendizaje gradual y el desarrollo de la autonomía del estudiante. 
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema5/8.png', alt='Imagen decorativa')
 
-        .row(titulo="")
-          .col-md-6.mb-4.mb-md-0.px-5
+        .row.justify-content-center.align-items-center(titulo="")
+          .col-lg-6.order-lg-1.order-2
             h6.mb-4 Modelo didáctico operativo
-            p Inspirado en las teorías constructivistas, este modelo integra experiencias vivenciales de los estudiantes y el análisis de documentos relacionados. El proceso incluye una etapa inicial de experiencias y reflexión, seguida de una ampliación y análisis en profundidad de la información, finalizando con la elaboración de conclusiones. Este enfoque busca una comprensión activa y personal del contenido.
+            p.mb-0 Inspirado en las teorías constructivistas, este modelo integra experiencias vivenciales de los estudiantes y el análisis de documentos relacionados. El proceso incluye una etapa inicial de experiencias y reflexión, seguida de una ampliación y análisis en profundidad de la información, finalizando con la elaboración de conclusiones. Este enfoque busca una comprensión activa y personal del contenido.
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema5/9.png', alt='Imagen decorativa')
 
-        .row(titulo="")
-          .col-md-6.mb-4.mb-md-0.px-5
+        .row.justify-content-center.align-items-center(titulo="")
+          .col-lg-6.order-lg-1.order-2
             h6.mb-4 Taller educativo
-            p Combina la teoría y la práctica mediante la resolución de problemas específicos. Los talleres educativos permiten a los estudiantes aplicar conceptos teóricos a situaciones prácticas, promoviendo la integración de conocimientos y habilidades a través de actividades colaborativas y la experimentación.
+            p.mb-0 Combina la teoría y la práctica mediante la resolución de problemas específicos. Los talleres educativos permiten a los estudiantes aplicar conceptos teóricos a situaciones prácticas, promoviendo la integración de conocimientos y habilidades a través de actividades colaborativas y la experimentación.
         
-          .col-md-6
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema5/10.png', alt='Imagen decorativa')
 
@@ -117,25 +113,25 @@
 
     .row.justify-content-center(data-aos="flip-up")
       .tarjeta--container.row.mb-5
-        .col-md.tarjeta.color-primario.p-5
+        .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-4
-            .col-4
+            .col-xl-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema5/11.svg', alt='Imagen decorativa')
             
           h4.text-center Enseñanza por explicación y contrastación de modelos
           p Utiliza métodos científicos para resolver problemas prácticos, permitiendo a los estudiantes comparar y contrastar diferentes enfoques y soluciones.
-        .col-md.tarjeta.color-secundario.p-5
+        .col-xl.col-md-6.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-4
-            .col-4
+            .col-xl-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema5/12.svg', alt='Imagen decorativa')
             
           h4.text-center Prácticas empresariales
           p Ofrecen a los estudiantes la oportunidad de aplicar los conocimientos adquiridos en un entorno real, permitiéndoles autoevaluar su competencia y adaptar sus habilidades a situaciones prácticas.
-        .col-md.tarjeta.color-primario1.p-5
+        .col-xl.col-md-6.tarjeta.color-primario1.p-5
           .row.justify-content-center.mb-4
-            .col-4
+            .col-xl-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema5/13.svg', alt='Imagen decorativa')
             
@@ -165,7 +161,7 @@
     .row.justify-content-center.mb-4
       .col-12.mb-4
         .tarjeta-avatar-b(data-aos="flip-up")
-          .tarjeta-avatar-b__img
+          .tarjeta-avatar-b__img(style="max-width: 600px")
             img(src='@/assets/curso/temas/tema5/15.svg' alt='AvatarTop')
           .tarjeta.tarjeta1
             .p-4
@@ -173,7 +169,7 @@
               p.mb-4 Esta evaluación se lleva a cabo de manera continua a lo largo del proceso educativo. Su propósito principal es proporcionar retroalimentación constante tanto a los estudiantes como a los docentes sobre el progreso y las áreas de mejora. A través de tareas, cuestionarios, proyectos y actividades en clase, la evaluación formativa permite identificar fortalezas y debilidades, ajustando las estrategias de enseñanza en tiempo real para mejorar el aprendizaje. La retroalimentación obtenida ayuda a los estudiantes a comprender mejor los conceptos y a realizar ajustes necesarios en su proceso de aprendizaje.
       .col-12.mb-4
         .tarjeta-avatar-b(data-aos="flip-up")
-          .tarjeta-avatar-b__img
+          .tarjeta-avatar-b__img(style="max-width: 600px")
             img(src='@/assets/curso/temas/tema5/16.svg' alt='AvatarTop')
           .tarjeta.tarjeta1
             .p-4

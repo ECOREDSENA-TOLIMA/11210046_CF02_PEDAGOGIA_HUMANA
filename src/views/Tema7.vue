@@ -52,10 +52,10 @@
     .row.justify-content-center.mb-4
       .col-lg-10.col-12
         .row.justify-content-center 
-          .col-lg-4.col-8.mb-3
+          .col-lg-4.col-10.mb-3
             figure
               img(src='@/assets/curso/temas/tema7/5.png', alt='Imagen decorativa')
-          .col-lg-8.col-8.mb-3
+          .col-lg-8.col-12.mb-3
             LineaTiempoD.color-acento-botones.especial.mb-5
               .row(numero="1" titulo="Textos de apoyo")
                 .col-md-12.mb-4.mb-md-0

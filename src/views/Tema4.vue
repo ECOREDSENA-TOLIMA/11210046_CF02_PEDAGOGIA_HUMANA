@@ -21,7 +21,7 @@
         .row.justify-content-center
           .col-12.mb-0
             .tarjeta-avatar-b.mb-1(data-aos="flip-up")
-              .tarjeta-avatar-b__img
+              .tarjeta-avatar-b__img(style="max-width: 600px")
                 img(src='@/assets/curso/temas/tema4/1.svg' alt='AvatarTop')
               .tarjeta.tarjeta2
                 .p-4
@@ -29,7 +29,7 @@
                   p Documento estructurado que define los conocimientos y habilidades que los estudiantes deben adquirir. Incluye contenidos teóricos, objetivos de aprendizaje, y criterios para la evaluación. El currículo puede ser nacional, regional o específico de una institución educativa.
           .col-12.mb-0
             .tarjeta-avatar-b.mb-1(data-aos="flip-up")
-              .tarjeta-avatar-b__img
+              .tarjeta-avatar-b__img(style="max-width: 600px")
                 img(src='@/assets/curso/temas/tema4/2.svg' alt='AvatarTop')
               .tarjeta.tarjeta3
                 .p-4
@@ -37,13 +37,13 @@
                   p Documento que proporciona un esquema detallado de los temas a cubrir, las actividades a realizar y los recursos necesarios. Facilita la planificación del docente y proporciona a los estudiantes una hoja de ruta clara para su aprendizaje.
           .col-12.mb-0
             .tarjeta-avatar-b.mb-1(data-aos="flip-up")
-              .tarjeta-avatar-b__img
+              .tarjeta-avatar-b__img(style="max-width: 600px")
                 img(src='@/assets/curso/temas/tema4/3.svg' alt='AvatarTop')
               .tarjeta.tarjeta2
                 .p-4
                   h4 Textos o libros guía de apoyo
                   p Recursos impresos o digitales que ofrecen contenido teórico y práctico relacionado con el currículo. Estos textos sirven como referencia principal para los estudiantes y complementan la enseñanza con información adicional.
-      .col-lg-3.col-6.mb-3
+      .col-lg-3.col-6.mb-3.d-lg-flex.d-none
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema4/4.svg', alt='Imagen decorativa')
 
@@ -58,14 +58,14 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="flip-up")
           .row(titulo="Plataformas de aprendizaje en línea")
             .col-md-12.mb-4.mb-md-0
-              p.mb-4 las plataformas como Blackboard, Moodle y Google Classroom han revolucionado la gestión de cursos y la interacción educativa. Estas herramientas digitales permiten a los docentes organizar y distribuir materiales educativos, diseñar actividades de aprendizaje, y facilitar la comunicación y colaboración entre estudiantes y profesores en un entorno virtual. La integración de estas plataformas en el proceso educativo ofrece flexibilidad y accesibilidad, permitiendo a los estudiantes aprender a su propio ritmo y desde cualquier lugar.
+              p.mb-4 Las plataformas como Blackboard, Moodle y Google Classroom han revolucionado la gestión de cursos y la interacción educativa. Estas herramientas digitales permiten a los docentes organizar y distribuir materiales educativos, diseñar actividades de aprendizaje, y facilitar la comunicación y colaboración entre estudiantes y profesores en un entorno virtual. La integración de estas plataformas en el proceso educativo ofrece flexibilidad y accesibilidad, permitiendo a los estudiantes aprender a su propio ritmo y desde cualquier lugar.
           .row(titulo="Sistemas MOOC <i>(Massive Open Online Courses)</i>")
             .col-md-12.mb-4.mb-md-0
-              p.mb-4 las plataformas MOOC, como Coursera, edX y Udacity, proporcionan acceso global a una amplia variedad de cursos en diversas áreas del conocimiento. Estos cursos masivos y abiertos permiten a los estudiantes participar en programas de formación de alta calidad ofrecidos por instituciones educativas reconocidas, complementando la educación formal o promoviendo el aprendizaje continuo. Los MOOC ofrecen una oportunidad valiosa para adquirir nuevos conocimientos y habilidades en un formato accesible y flexible.
+              p.mb-4 Las plataformas MOOC, como Coursera, edX y Udacity, proporcionan acceso global a una amplia variedad de cursos en diversas áreas del conocimiento. Estos cursos masivos y abiertos permiten a los estudiantes participar en programas de formación de alta calidad ofrecidos por instituciones educativas reconocidas, complementando la educación formal o promoviendo el aprendizaje continuo. Los MOOC ofrecen una oportunidad valiosa para adquirir nuevos conocimientos y habilidades en un formato accesible y flexible.
           .row(titulo="Recursos multimedia")
             .col-md-12.mb-4.mb-md-0
               p.mb-4 Como videos educativos, simulaciones interactivas y presentaciones multimedia, juegan un papel crucial en la creación de un entorno de aprendizaje atractivo y efectivo. Estos materiales permiten la visualización de conceptos complejos y facilitan una comprensión más profunda de los temas mediante la integración de diferentes formatos, como imágenes, audio y video. Al incorporar recursos multimedia, los docentes pueden ofrecer experiencias de aprendizaje más dinámicas y participativas, adaptadas a las necesidades y preferencias individuales de los estudiantes.
-      .col-lg-4.col-10.mb-3
+      .col-lg-4.col-10.mb-3.d-lg-flex.d-none
         figure.mb-4(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema4/5.png', alt='Imagen decorativa')
     
@@ -80,7 +80,7 @@
       .tarjeta--container.row.mb-5
         .col-md.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-4
-            .col-3
+            .col-xl-3.col-md-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema4/6.svg', alt='Imagen decorativa')
             
@@ -88,7 +88,7 @@
           p Incluye una amplia variedad de recursos tangibles utilizados en el aula para apoyar el aprendizaje. Entre estos se encuentran libros de texto, hojas de trabajo, mapas, tarjetas educativas y otros elementos que proporcionan información visual y escrita. Estos materiales son fundamentales para la formación tradicional y ofrecen una base sólida para el aprendizaje práctico y la realización de actividades en clase.
         .col-md.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-4
-            .col-3
+            .col-xl-3.col-md-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema4/7.svg', alt='Imagen decorativa')
           
@@ -130,7 +130,7 @@
       .titulo.mb-4
         img(src='@/assets/curso/temas/ico.png', alt='Imagen decorativa')
         h5.mb-0  Ambientes virtuales
-      .row.justify-content-center 
+      .row.justify-content-center.mb-5
         .col-lg-7.col-12.mb-3
           p Son espacios en línea que permiten la colaboración y el aprendizaje a distancia. Estos entornos digitales facilitan el acceso a una amplia gama de recursos educativos, actividades interactivas y herramientas de comunicación, sin las limitaciones impuestas por la ubicación física. Plataformas de <i>e-learning</i> como Moodle, Google Classroom y Blackboard ofrecen a los estudiantes y docentes la capacidad de interactuar, compartir información y participar en actividades educativas desde cualquier lugar del mundo. La flexibilidad y accesibilidad de los ambientes virtuales permiten a los educadores adaptar el contenido y las actividades para satisfacer las necesidades de una audiencia diversa y global.
         .col-lg-5.col-10.mb-3 
