@@ -29,68 +29,68 @@
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/2.svg' alt='AvatarTop')
-          h4.text-center Estrategias cognitivas
-          p Dirigidas al aprendizaje significativo mediante la comprensión profunda de los contenidos.
+          h4.text-center Tópico generativo
+          p Utiliza temas o problemas centrales que generan interés y discusión.
         .tarjeta.color-primario2.p-4
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/3.svg' alt='AvatarTop')
-          h4.text-center Estrategias metacognitivas
-          p Fomentan la reflexión sobre el propio proceso de aprendizaje, incluyendo cómo se aprende, con qué se aprende y su relevancia social.
+          h4.text-center Simulación
+          p Los estudiantes asumen roles en escenarios que imitan situaciones del mundo real.
         .tarjeta.color-primario2.p-4
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/4.svg' alt='AvatarTop')
-          h4.text-center Estrategias lúdicas
-          p Utilizan el juego y la interacción emocional para mejorar la motivación y el compromiso con el aprendizaje.
+          h4.text-center Proyectos
+          p Implican la investigación y la solución de problemas reales o hipotéticos.
         .tarjeta.color-primario2.p-4
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/5.svg' alt='AvatarTop')
-          h4.text-center Estrategias tecnológicas
-          p Incorporan el uso efectivo de herramientas tecnológicas avanzadas, como la inteligencia artificial y la realidad aumentada, para enriquecer el proceso educativo.
+          h4.text-center Estudio de caso
+          p Análisis detallado de casos reales o simulados para aplicar conceptos teóricos.
         .tarjeta.color-primario2.p-4
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/6.svg' alt='AvatarTop')
-          h4.text-center Estrategias socio-afectivas
-          p Crean un ambiente de aprendizaje positivo y colaborativo, promoviendo el desarrollo socioemocional de los estudiantes.
+          h4.text-center Aprendizaje Basado en Problemas (ABP)
+          p Los estudiantes enfrentan problemas complejos que deben resolver mediante la investigación y el análisis.
         .tarjeta.color-primario2.p-4
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/7.svg' alt='AvatarTop')
-          h4.text-center Estrategias cognitivas
-          p Dirigidas al aprendizaje significativo mediante la comprensión profunda de los contenidos.
+          h4.text-center Aprendizaje <i>in situ</i>
+          p Aplicación de conocimientos en contextos reales o simulados.
         .tarjeta.color-primario2.p-4
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/8.svg' alt='AvatarTop')
-          h4.text-center Estrategias metacognitivas
-          p Fomentan la reflexión sobre el propio proceso de aprendizaje, incluyendo cómo se aprende, con qué se aprende y su relevancia social.
+          h4.text-center Aprendizaje basado en TIC
+          p Uso de tecnologías de la información y la comunicación para facilitar el aprendizaje.
         .tarjeta.color-primario2.p-4
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/9.svg' alt='AvatarTop')
-          h4.text-center Estrategias lúdicas
-          p Utilizan el juego y la interacción emocional para mejorar la motivación y el compromiso con el aprendizaje.
+          h4.text-center Aprender mediante el servicio
+          p Integración de la comunidad y el aprendizaje práctico a través de actividades de servicio.
         .tarjeta.color-primario2.p-4
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/10.svg' alt='AvatarTop')
-          h4.text-center Estrategias tecnológicas
-          p Incorporan el uso efectivo de herramientas tecnológicas avanzadas, como la inteligencia artificial y la realidad aumentada, para enriquecer el proceso educativo.
+          h4.text-center Investigación con tutoría
+          p Proyectos de investigación guiados por un tutor.
         .tarjeta.color-primario2.p-4
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/11.svg' alt='AvatarTop')
-          h4.text-center Estrategias socio-afectivas
-          p Crean un ambiente de aprendizaje positivo y colaborativo, promoviendo el desarrollo socioemocional de los estudiantes.
+          h4.text-center Aprendizaje cooperativo
+          p Trabajo en grupo para alcanzar objetivos comunes.
         .tarjeta.color-primario2.p-4
           .row.justify-content-center.mb-3
             .col-6
               img(src='@/assets/curso/temas/tema6/12.svg' alt='AvatarTop')
-          h4.text-center Estrategias tecnológicas
-          p Incorporan el uso efectivo de herramientas tecnológicas avanzadas, como la inteligencia artificial y la realidad aumentada, para enriquecer el proceso educativo.
+          h4.text-center WebQuest
+          p Actividades basadas en la web que promueven la investigación y el análisis de información en línea.
 
     separador
     #t_6_2.titulo-segundo.color-acento-contenido
