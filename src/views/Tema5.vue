@@ -43,7 +43,6 @@
             p A través de preguntas, guía a los estudiantes a llegar a conclusiones sobre lo aprendido.
 
           .tarjeta.color-secundario.p-3(x="68.8%" y="22.8%" numero="+")
-            .h5.mb-2 Tutoría
             p Complementa la labor docente mediante orientación y acompañamiento flexible y programado.
 
           .tarjeta.color-secundario.p-3(x="88.5%" y="34.8%" numero="+")
