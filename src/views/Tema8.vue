@@ -180,7 +180,7 @@
               .tarjeta.tarjeta2
                 .p-4
                   h4 Evaluar la memoria
-                  p Medir el conocimientos especifico  y la capacidad de recordar información.
+                  p Medir el conocimiento especifico  y la capacidad de recordar información.
           .col-12.mb-0
             .tarjeta-avatar-b(data-aos="flip-up")
               .tarjeta-avatar-b__img(style="max-width: 600px")
