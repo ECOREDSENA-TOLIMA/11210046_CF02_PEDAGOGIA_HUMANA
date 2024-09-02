@@ -293,9 +293,9 @@ export default {
   ],
   glosario: [
     {
-      termino: '<i>E-learning</i> (aprendizaje electrónico',
+      termino: '<i>E-learning</i> (aprendizaje electrónico)',
       significado:
-        'se refiere a la educación y formación proporcionada a través de medios electrónicos, principalmente a través de Internet. Este tipo de aprendizaje permite a los estudiantes acceder a material educativo y realizar actividades desde cualquier lugar y en cualquier momento, ofreciendo flexibilidad y eliminando barreras geográficas. Las plataformas populares de e-learning, como Moodle, Google Classroom y Blackboard, permiten a los educadores y estudiantes interactuar y compartir información de manera eficiente y accesible.',
+        'se refiere a la educación y formación proporcionada a través de medios electrónicos, principalmente a través de Internet. Este tipo de aprendizaje permite a los estudiantes acceder a material educativo y realizar actividades desde cualquier lugar y en cualquier momento, ofreciendo flexibilidad y eliminando barreras geográficas. Las plataformas populares de <i>e-learning</i>, como Moodle, Google Classroom y Blackboard, permiten a los educadores y estudiantes interactuar y compartir información de manera eficiente y accesible.',
     },
     {
       termino: 'Estrategia',
@@ -387,7 +387,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC). (s.f.). E-Learning (aprendizaje electrónico).',
+        'Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC). (s.f.). <i>E-Learning</i> (aprendizaje electrónico).',
       link:
         'https://www.mintic.gov.co/portal/inicio/Glosario/E/5601:E-Learning-aprendizaje-electronico',
     },

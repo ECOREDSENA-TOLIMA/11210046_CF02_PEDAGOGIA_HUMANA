@@ -23,8 +23,8 @@
               p.mb-4 La evaluación permite a los docentes valorar a los estudiantes bajo diversos criterios como el momento, la intensidad, la complejidad del contenido, el método y los instrumentos utilizados .Estos criterios garantizan una evaluación precisa y completa, proporcionando una imagen clara del progreso y las áreas que requieren atención adicional.
           .row(titulo="¿Qué papel juegan los planes de mejoramiento?")
             .col-md-12.mb-4.mb-md-0
-              p.mb-4 Los planes de mejoramiento son cruciales en el proceso educativo, ya que ofrecen a los estudiantes oportunidades adicionales para reforzar y consolidar sus conocimientos. Actúan como una hoja de ruta, guiando a los estudiantes hacia nuevas oportunidades para mejorar y perfeccionar sus habilidades.
-              Estos planes transforman la retroalimentación en acciones concretas, brindando a los estudiantes el apoyo necesario para alcanzar sus metas educativas.
+              p.mb-3 Los planes de mejoramiento son cruciales en el proceso educativo, ya que ofrecen a los estudiantes oportunidades adicionales para reforzar y consolidar sus conocimientos. Actúan como una hoja de ruta, guiando a los estudiantes hacia nuevas oportunidades para mejorar y perfeccionar sus habilidades.
+              p Estos planes transforman la retroalimentación en acciones concretas, brindando a los estudiantes el apoyo necesario para alcanzar sus metas educativas.
 
     p.mb-4(data-aos="fade-left") Existen diversas técnicas para registrar y sistematizar el progreso educativo, cada una con sus propias características y ventajas. A continuación, se presentan algunas de las principales técnicas: 
 

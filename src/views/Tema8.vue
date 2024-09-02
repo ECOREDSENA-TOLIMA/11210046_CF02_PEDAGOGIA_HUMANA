@@ -342,7 +342,7 @@
                 span <b>Autonomía en la creación</b>: los estudiantes tienen la libertad de organizar y presentar su trabajo según sus propios criterios, siempre que sigan una serie de instrucciones proporcionadas.
               li.mb-4(style="margin-bottom: 2px") 
                 i.fas.fa-circle(style="font-size: 0.5em")
-                span <b>Aplicación práctica</b>: fomenta la aplicación de conocimientos en contextos reales o simulados, • promoviendo una comprensión más profunda y funcional de los temas tratados.
+                span <b>Aplicación práctica</b>: fomenta la aplicación de conocimientos en contextos reales o simulados, promoviendo una comprensión más profunda y funcional de los temas tratados.
               li(style="margin-bottom: 2px") 
                 i.fas.fa-circle(style="font-size: 0.5em")
                 span <b>Variedad de productos</b>: incluye una amplia gama de entregables como proyectos, monografías, ensayos, informes, presentaciones, y creaciones multimedia.
