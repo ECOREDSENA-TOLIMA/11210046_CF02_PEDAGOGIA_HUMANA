@@ -7,7 +7,7 @@
         span 2
       h1 Ambientes de aprendizaje
     
-    p.mb-4(data-aos="fade-left") El concepto de ambientes de aprendizaje abarca los diversos espacios donde se lleva a cabo la actividad docente, incluyendo ubicaciones físicas, virtuales, sociales y contextuales en los que los estudiantes adquieren conocimientos. A diferencia del término "aula," que tradicionalmente se asocia con un espacio físico específico equipado con escritorios, una pizarra y una disposición de filas, el concepto de ambiente de aprendizaje ofrece una visión más amplia y flexible. 
+    p.mb-4(data-aos="fade-left") El concepto de ambientes de aprendizaje abarca los diversos espacios donde se lleva a cabo la actividad docente, incluyendo ubicaciones físicas, virtuales, sociales y contextuales en los que los estudiantes adquieren conocimientos. A diferencia del término "aula", que tradicionalmente se asocia con un espacio físico específico equipado con escritorios, una pizarra y una disposición de filas, el concepto de ambiente de aprendizaje ofrece una visión más amplia y flexible. 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-up")
       .bloque-texto-g__img(

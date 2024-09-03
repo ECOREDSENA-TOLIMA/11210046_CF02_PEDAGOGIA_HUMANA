@@ -316,7 +316,7 @@
               ul.lista-ul
                 li.mb-4(style="margin-bottom: 2px") 
                   i.fas.fa-circle(style="font-size: 0.5em")
-                  span Ofrece <i>Feedback</i> inmediato, proporcionando a los estudiantes retroalimentación rápida sobre su desempeño.
+                  span Ofrece <i>feedback</i> inmediato, proporcionando a los estudiantes retroalimentación rápida sobre su desempeño.
             td.px-4 
              ul.lista-ul
               li.mb-4(style="margin-bottom: 2px") 
