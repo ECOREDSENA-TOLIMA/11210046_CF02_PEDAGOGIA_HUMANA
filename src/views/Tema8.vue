@@ -305,7 +305,7 @@
               ul.lista-ul
                 li.mb-4(style="margin-bottom: 2px") 
                   i.fas.fa-circle(style="font-size: 0.5em")
-                  | Tiene una aplicación amplia, siendo adecuado para evaluar una amplia gama de contenidos y habilidades, desde conocimientos básicos hasta comprensión mas avanzada.
+                  | Tiene una aplicación amplia, siendo adecuado para evaluar una amplia gama de contenidos y habilidades, desde conocimientos básicos hasta comprensión más avanzada.
             td.px-4 
              ul.lista-ul
               li.mb-4(style="margin-bottom: 2px") 
