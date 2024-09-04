@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="327" height="401" viewBox="0 0 327 401">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_377974" data-name="Rectangle 377974" width="327" height="401" rx="20" transform="translate(-24522.496 -5724)" fill="#e1d6cb"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_154365" data-name="Mask Group 154365" transform="translate(24522.496 5724)" clip-path="url(#clip-path)">
+    <g id="Group_1072554" data-name="Group 1072554" transform="translate(-202.84 59.995)">
+      <g id="fondo" transform="translate(-24532.123 -5797.035)">
+        <path id="Path_609863" data-name="Path 609863" d="M974.309,0H0V560H974.309Z" transform="translate(0)" fill="#ede6e0"/>
+      </g>
+      <path id="Union_169" data-name="Union 169" d="M0,0V54.215H14.1c-.053,3.39-.08,6.737-.08,8.77,0,127.976,103.644,231.722,231.5,231.722a231.772,231.772,0,0,0,63.041-8.693,281.12,281.12,0,0,0,222.6,109.172c134.275,0,246.587-94.033,274.835-219.9a55.573,55.573,0,0,0,65.809-65.48c30.665-7.89,57.3-30.335,76.213-55.6h18.335V0Z" transform="translate(-23467.656 -5351.656) rotate(180)" fill="#e1d6cb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" opacity="0.4"/>
+      <path id="Union_173" data-name="Union 173" d="M148.628,43.358A81.079,81.079,0,1,0,72.683,168.846a206.684,206.684,0,0,0-3.25,36.6c0,113.466,91.98,205.446,205.446,205.446A205.5,205.5,0,0,0,463.372,287.3,126.336,126.336,0,1,0,403.907,45.562a205.484,205.484,0,0,0-255.279-2.2Z" transform="translate(-23873.895 -5282.292) rotate(180)" fill="#e1d6cb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" opacity="0.4"/>
+    </g>
+  </g>
+</svg>
